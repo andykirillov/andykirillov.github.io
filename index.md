@@ -12,12 +12,14 @@
     <div class="header"></div>
    <div class="center-wrapper">
        <div id="navigation">
-           <ul class="tabbed">
-               <li class="active"><a href="https://andykirillov.github.io/index.html">About</a></li>
-               <li><a href="https://andykirillov.github.io/research.html">Research</a></li>
-               <li><a href="https://andykirillov.github.io/contact.html">Contact</a></li>
-               <li><a href="https://andykirillov.github.io/cv.html">CV</a></li>
-           </ul>
+           <nav>
+               <ul>
+                   <li><a href="https://andykirillov.github.io/index.html">About</a></li>
+                   <li><a href="https://andykirillov.github.io/research.html">Research</a></li>
+                   <li><a href="https://andykirillov.github.io/contact.html">Contact</a></li>
+                   <li><a href="https://andykirillov.github.io/cv.html">CV</a></li>
+               </ul>
+            </nav>
        </div>
        <br><br>
        <img src="AndyKirillov.jpg" alt="Andrey Kirillov" width="250" height="250">
