@@ -75,9 +75,9 @@ ol.ol {list-style-type: lower-alpha; list-style-position: outside;}
 #header {display: none;}
 
 
-/* Navigation */
+/* Nav */
 
-ul {
+ul.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
