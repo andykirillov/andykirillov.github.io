@@ -9,11 +9,11 @@
         <link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet">
     </head>
 <body>
-    <div class="header-space"></div>
+    <div class="header"></div>
    <div class="center-wrapper">
        <div id="navigation">
            <ul class="tabbed">
-               <li><a href="https://andykirillov.github.io/index.html">About</a></li>
+               <li class="tab-active"><a href="https://andykirillov.github.io/index.html">About</a></li>
                <li><a href="https://andykirillov.github.io/research.html">Research</a></li>
                <li><a href="https://andykirillov.github.io/contact.html">Contact</a></li>
                <li><a href="https://andykirillov.github.io/cv.html">CV</a></li>
