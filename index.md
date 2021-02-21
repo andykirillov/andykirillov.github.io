@@ -9,6 +9,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet">
     </head>
 <body>
+    <div class="header-space"></div>
    <div class="center-wrapper">
        <div id="navigation">
            <ul class="tabbed">
@@ -26,9 +27,9 @@
        <h2>Samara University of Public Administration “International Market Institute”<br>Germanic Languages Department</h2>
        <h3>Director of M.A. Program in Linguistics</h3>
        <br><br>
-       <p.noindent>I am an Associate Professor at the Germanic Languages Department and Director of the <a href="https://imilinguistics.ru/">M.A. Program in Linguistics</a> at the International Market Institute, Samara (Russia).</p>
-       <p.noindent>My research focus is on political and media linguistics, online discourse. As a teacher, I am responsible for a range of undergraduate and graduate classes, including English, Introduction to Linguistics, General Linguistics, Media Linguistics, Sociolinguistics.</p>
-       <p.noindent>I am also an editor-in-chief of an independent online academic journal <a href="https://ltsj.online/">“Language. Text. Society”</a> (ISSN 2687-0487), which co-hosts an international conference (LTS-Con).</p>
+       <p class="noindent">I am an Associate Professor at the Germanic Languages Department and Director of the <a href="https://imilinguistics.ru/">M.A. Program in Linguistics</a> at the International Market Institute, Samara (Russia).</p>
+       <p class="noindent">My research focus is on political and media linguistics, online discourse. As a teacher, I am responsible for a range of undergraduate and graduate classes, including English, Introduction to Linguistics, General Linguistics, Media Linguistics, Sociolinguistics.</p>
+       <p class="noindent">I am also an editor-in-chief of an independent online academic journal <a href="https://ltsj.online/">“Language. Text. Society”</a> (ISSN 2687-0487), which co-hosts an international conference (LTS-Con).</p>
     </div> 
 </body>
 </html>
