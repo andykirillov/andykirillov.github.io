@@ -87,11 +87,11 @@ ul.tabbed {
   background-color: #0f4c75;
 }
 
-ul.tabbed li {
+li {
   float: left;
 }
 
-ul.tabbed li a {
+li a {
   display: block;
   color: white;
   font-family: 'Raleway', sans-serif;
@@ -101,7 +101,7 @@ ul.tabbed li a {
   text-decoration: none;
 }
 
-ul.tabbed li a:hover {
+li a:hover {
   background-color: #3282b8;}
 
 tabbed.active {
