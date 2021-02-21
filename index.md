@@ -13,7 +13,7 @@
    <div class="center-wrapper">
        <div id="navigation">
            <nav>
-               <ul>
+               <ul class="nav">
                    <li><a href="https://andykirillov.github.io/index.html">About</a></li>
                    <li><a href="https://andykirillov.github.io/research.html">Research</a></li>
                    <li><a href="https://andykirillov.github.io/contact.html">Contact</a></li>
