@@ -104,6 +104,6 @@ li a {
 li a:hover {
   background-color: #3282b8;}
 
-tabbed.active {
+.active {
   background-color: #bbe1fa;
 }
