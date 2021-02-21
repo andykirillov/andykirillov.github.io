@@ -18,7 +18,7 @@
                <li><a href="https://andykirillov.github.io/cv.html">CV</a></li>
            </ul>
        </div>
-       <br><br><br>
+       <br><br>
        <img class="img-circle" src="AndyKirillov.jpg" alt="Andrey Kirillov" width="250" height="250">
        <br><br>
        <h1>Andrey Kirillov</h1>         
@@ -26,9 +26,9 @@
        <h2>Samara University of Public Administration “International Market Institute”<br>Germanic Languages Department</h2>
        <h3>Director of M.A. Program in Linguistics</h3>
        <br><br>
-       <p.noindent>I am an Associate Professor at the Germanic Languages Department and Director of M.A. Program in Linguistics at the International Market Institute, Samara (Russia).</p>
+       <p.noindent>I am an Associate Professor at the Germanic Languages Department and Director of the <a href="https://imilinguistics.ru/">M.A. Program in Linguistics</a> at the International Market Institute, Samara (Russia).</p>
        <p.noindent>My research focus is on political and media linguistics, online discourse. As a teacher, I am responsible for a range of undergraduate and graduate classes, including English, Introduction to Linguistics, General Linguistics, Media Linguistics, Sociolinguistics.</p>
-       <p.noindent>I am also an editor-in-chief of an independent online academic journal “Language. Text. Society” (ISSN 2687-0487), which co-hosts an international conference (LTS-Con).</p>
+       <p.noindent>I am also an editor-in-chief of an independent online academic journal <a href="https://ltsj.online/">“Language. Text. Society”</a> (ISSN 2687-0487), which co-hosts an international conference (LTS-Con).</p>
     </div> 
 </body>
 </html>
