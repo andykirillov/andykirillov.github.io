@@ -5,7 +5,6 @@
         <meta name="author" content="Andrey Kirillov">
         <link rel="stylesheet" type="text/css" href="main.css" media="all">
         <link rel="icon" type="image/png" href="AK.png" />
-        <title>Andrey Kirillov &nbsp; - &nbsp; Home</title>
         <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet">
     </head>
