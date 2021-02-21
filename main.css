@@ -17,7 +17,6 @@ color: #101820;
 line-height: 1.5;
 }
 
-#header-space {display: none;}
 
 /* Headings */
 
@@ -70,6 +69,11 @@ ul {list-style-type: disc; list-style-position: outside;}
 ol {list-style-type: decimal; list-style-position: outside;}
 ul.no {list-style-type: none; margin: 0; padding: 0;}
 ol.ol {list-style-type: lower-alpha; list-style-position: outside;}
+
+
+/* Header */
+#header {display: none;}
+
 
 /* Navigation */
 
